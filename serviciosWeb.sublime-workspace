@@ -1,0 +1,869 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"backgro",
+				"background"
+			],
+			[
+				"mis",
+				"misIconos"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"fot",
+				"font-weight"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"ease",
+				"_ease-in"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"backgrou",
+				"background-attachment"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"ord",
+				"border"
+			],
+			[
+				"flex",
+				"flex-end"
+			],
+			[
+				"base",
+				"baseline"
+			],
+			[
+				"wa",
+				"wrap"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"ta",
+				"target\tAttr"
+			],
+			[
+				"hr",
+				"href"
+			],
+			[
+				"page",
+				"page2"
+			],
+			[
+				"lies",
+				"list-style"
+			],
+			[
+				"magi",
+				"margin-left"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"p",
+				"padding-right"
+			],
+			[
+				"borde",
+				"border-top"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"s",
+				"statusActive"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"new",
+				"newTime"
+			],
+			[
+				"ahora",
+				"ahoraMismo"
+			],
+			[
+				"sali",
+				"salida_T"
+			],
+			[
+				"año",
+				"añoActual"
+			],
+			[
+				"pr",
+				"proof2"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"valo",
+				"valorDeMiCubo"
+			],
+			[
+				"onmo",
+				"onmouseout\tAttr"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"upp",
+				"upper-roman"
+			],
+			[
+				"lo",
+				"lower-roman"
+			],
+			[
+				"o",
+				"upper-roman"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"cata",
+				"catalogo_L2_1"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"he",
+				"helvetica"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"grid",
+				"grid_inmuebles"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"col",
+				"colummns"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"bo",
+				"border-right"
+			],
+			[
+				"sli",
+				"slideUp"
+			],
+			[
+				"tag",
+				"tag_L1_bottom"
+			],
+			[
+				"sl",
+				"slow"
+			],
+			[
+				"slide",
+				"slideDown"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"se",
+				"section\tTag"
+			],
+			[
+				"en",
+				"enlace"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"re",
+				"repeat-y"
+			],
+			[
+				"rep",
+				"background-repeat"
+			],
+			[
+				"bode",
+				"border"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"wd",
+				"width"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"ce",
+				"cerra_ventana"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"mi",
+				"miNuevoObjeto2"
+			],
+			[
+				"pla",
+				"platfrom"
+			],
+			[
+				"his",
+				"history"
+			],
+			[
+				"use",
+				"userMessage3"
+			],
+			[
+				"user",
+				"userMessage1"
+			],
+			[
+				"us",
+				"userMessage2"
+			],
+			[
+				"on",
+				"onmouseout\tAttr"
+			],
+			[
+				"a",
+				"apelldos"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"medi",
+				"media_sportSystem"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"sans",
+				"sans-serif"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"conta",
+				"containt"
+			],
+			[
+				"cont",
+				"containt"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"pro",
+				"proveedores"
+			],
+			[
+				"u",
+				"ul\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 342.0,
+		"last_filter": "package",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"book",
+				"Bookmarks: Select Next"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"package control ",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"package control",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 510.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Gulp/00_general.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/Git/16_5_GitHub_git_Remote_Add_Link.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/Git/03_Git_Bash_Settings.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/Git/15_2_GitHub_Git_Remote.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/Git/16_2_GitHub_Pull_Request.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/Git/16_GitHub_Git_Push_Origin_Master.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/Git/15_3_GitHub_Git_Remote_Comprovate.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/Git/15_4_GitHub_Git_Remote_Remove.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/Git/15_1_GitHub_New_Repository.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/Git/13_GitHub_login.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/Git/12_Git_Merge.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/Git/11_Git_Branchs.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/Git/07_3_Git_Tag.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/Git/08_Git_Log.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/Git/07_1_Git_Commit-a-m.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/Git/07_4_Git_Show.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/Git/14_GitHub_Git_Clone.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/Git/06_1_Git_Diff.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/Git/06_2_Git_Reset_Head.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/Git/05_1_Git_cheackout--fileName.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/Git/alter1.txt",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/Git/09_Git_Checkout.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/Git/07_4_Git_Ignore.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/Git/07_2_Git_Commit--amend.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/Git/07_0_Git_Commit.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Git/07_Git_Commit.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/Git/07_4_Git_vm.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/Git/06_Git_Add.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/Git/proof2.txt",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/Git/proof.txt",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/Git/.gitignore",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/Git/07_2_Git_Commit-a-m.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/Git/07_1_Git_Ignore.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/html/4_etiquetas_semanticas_in_Block/02_nav_html.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/Git/.git/COMMIT_EDITMSG",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/Git/claves_demo.txt",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/Git/05_Git_Status.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/Git/00_Generales.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/Git/01_Git_Instalacion.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Git/32_GitHub_Deploiment_ha_Servidor_Externo.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Git/34_GitHub_Hooks_o_Automatismos.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Git/00_Generales.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Git/30_GitHub_Servidor.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Git/15_GitHub_Git_Remote.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Git/12_Git_Marge.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Git/21_GitHub_Workflows.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Git/22_GitHub_Workflows_Administrador.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Git/25_GitHub_Workflows_Administrador_New_Project_Colaboradores.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Git/26_GitHub_Workflows_Administrador_Commits_de_Colaboradores.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Git/25_GitHub_Workflows_Administrador_Commits_de_Colaboradores.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Git/16_GitHub_Git_Push_Origin_Master.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Git/14_GitHub_Git_Clone.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Git/13_GitHub_login.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Git/11_Git_Branchs.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Git/08_Git_Log.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Git/10_Git_Reset.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Git/09_Git_Checkout.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Git/06_Git_Add.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Git/05_Git_Status.html",
+		"/C/xampp/htdocs/esculapioWeb2017_V2/source/css/main.css",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Git/02_Git_Bash.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Git/01_Git_Instalacion.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Git/03_Git_Bash_Settings.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Git/04_Git_Project.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Git/01_git bash.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Git/13_GitHub_Git_Push_Origin_Master.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Git/9_Git_Branchs.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Git/5_Git_Commit.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Git/6_Git_Log.html",
+		"/C/xampp/htdocs/esculapioWeb2017/index.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Git/2_Git Bash Comands.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Git/0_Git Bash Comands.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Git/0_git bash.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Gulp/4_gulp_install_sass.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Gulp/sassProject/sass/main.scss",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Gulp/app/gulpfile.js",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Gulp/sassProject/index.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Gulp/app/package.json",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Gulp/3_gulp_install_pug-jade.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Gulp/app/index.pug",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Gulp/app/index.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Gulp/00_general.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Gulp/2_gulp_new_task.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Gulp/1_gulp_new_project.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Gulp/source/js/gulpfile.js",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Gulp/2_gulp_install_pug-jade.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Gulp/1_gulp_y_pug_o_jade.html",
+		"/C/xampp/htdocs/pug/index.pug",
+		"/C/xampp/htdocs/pug/Gulpfile.js",
+		"/C/xampp/htdocs/pug/package.json",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/Gulp/00_gulp_y_pug_o_jade.html",
+		"/C/xampp/htdocs/pug/00_general.html",
+		"/C/xampp/htdocs/pug/node_modules/gulp/index.js",
+		"/C/xampp/htdocs/pug/node_modules/gulp/README.md",
+		"/C/xampp/htdocs/pug/node_modules/gulp/package.json",
+		"/C/xampp/htdocs/pug/gulpfile.js",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/JavaScript/4_Operadores_matematicos_y_otros/6_Operadores.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/javascript/00_generales.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/javascript/objetos_herencias.html",
+		"/C/Users/mono/Downloads/index.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/closures.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/00_generales.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/nodejs/5_node_core_timers.html",
+		"/C/xampp/htdocs/sassalter/src/index.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/funciones_personalizadas.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/arrays_o_matrices_metodo_changing().html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/arrays_o_matrices_metodo_join().html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/arrays_o_matrices_metodo_pop().html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/arrays_o_matrices_metodo_push().html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/arrays_o_matrices_metodo_shift().html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/arrays_o_matrices_metodo_splice().html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/arrays_o_matrices_metodo_toString().html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/arrays_o_matrices_metodo_unshift().html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/arrays_o_matrices_metodo_lenght().html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/arrays_o_matrices_metodo_pop.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/arrays_o_matrices_metodo_shift.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/window.prompt().html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/operador_typeof().html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/window.alert().html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/console.log().html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/bucle_for.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/bucle_ while.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/bucle_do_while.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/nodejs/0_generales.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/nodejs/00_front_end_and_back_end.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/less/0_generales.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/nodejs/4_node_core_objetos globales_process.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/bases_de_bases_de_datos/0_generales.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"identidad",
+			"slice",
+			"concat",
+			"toString",
+			"Splice",
+			"Push",
+			"Pop",
+			"entorno",
+			"confirm",
+			"alert",
+			"elemento",
+			"i",
+			"-(#{$",
+			"hijos",
+			"indice",
+			"var",
+			"div",
+			"singleColor",
+			"elements",
+			"singleColor",
+			"elements",
+			"singleColor",
+			"header",
+			"var",
+			"aver",
+			"demo",
+			"proof",
+			"miBg",
+			"misIconos",
+			"iccons2",
+			"icon",
+			"type",
+			" $",
+			"type",
+			"width",
+			"Control",
+			"repetir",
+			"div",
+			"width",
+			"h2",
+			"_cerrar",
+			"h2",
+			"otros",
+			"ser",
+			"multiservicioshostelar",
+			"post_1_L1_tumb4",
+			"red",
+			" \n",
+			">\n",
+			"Villegas",
+			".hero-unit",
+			".hero/unit",
+			"btn-primary",
+			"h2",
+			"screen_divisiones_sub_divisiones_7"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ul"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "serviciosWeb.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"source\\css\\main - copia.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 277.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
