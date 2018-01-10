@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Servicios Web</title>
+</head>
+<body>
+
+
+	<!--
+
+		Potencia del Servidor:
+		______________________
+
+		_una de las características que debemos de tomar en cuenta a la hora de contratar un servicio de hosting, es la potencia del servidor y sus características de hardward, instaladas
+
+		
+		Sitios Estáticos:
+		_________________
+
+		_para los sitios web, en los cuáles, se haya realizado un desarrollo con sólo las tecnologías html, css, y javascript, prácticamente no afectará la potencia del servidor 
+
+		_ya que en éste no se realizará ninguna operación de cálculo éxtra a parte de servir los datos que conforman el sitio web
+
+		_ya que en éste caso todo es procesado y renderizado directamente en el naveador ó cliente
+
+
+		Sitios Dinámicos:
+		_________________
+
+		_más si por el contrario, nuestro sitio utiliza tecnologías dinámicas y bases de datos es mucho más probable la necesisdad de hacer de las características de rendimiento del hosting
+
+
+		Ejemplo: 
+
+		_en una tienda online, la rapidéz es clave, de ésta manera, si un cliente quiere ver los productos más vendidos del mes pasado 
+
+		_es en éste punto donde PHP, y MySql, los que se encargan de hacer una búsqueda y un filtrado de la base de datos para buscar los productos más vendidos durante el mes 
+
+		_comparar las tablas de productos con las columnas de mayores ventas, filtrarlo y maquetarlo todo en pantalla de manera dinámica inevitablemente requiere cierto esfuerzo por parte del servidor 
+
+		_y ese esfuerzo a caba recayendo sobre el procesador del servidor el cuál, a su vez, deberá ser ajilizado por la memoria ram, del servidor 
+
+		_y el servidor dura 3, ó 4, segundos en proporcionarnos esa información 
+
+		_el cliente se preguntará, cuantos segundos se demorará cuando introduzca los datos de mi tarjeta de crédito lo que conyevará a una desconfianza en el clientes y ésto en ventas se traduce como perdidas de clientes
+
+
+		Servidres Dedicados:
+		____________________
+
+		_los servidores dedicados nos permiten disponer de todas las prestaciones de un servidor sin que éste tenga que ser compartido con más sitios web
+
+		_y en éstos casos en los que necesitamos unas características concretas de procesamiento y rendimiento es para la que sirven y están disponibles los servidores dedicados
+
+		_los cuáles, nos permiten conocer hasta cierto límite las características del hardward, y la configuración de los mismos 
+
+		_algunas empresas incluso nos permiten configurar las prestaciones del hosting, dedicado en relación a nuestras necesidades y presupuesto
+
+
+		Programación:
+		_____________
+
+		_no todo es el rendimiento del servidor, si no también, una buena y rápida programación optimizada la cuál, permita rápidos procesos a través, de algotimos estructurados y optimizados al máximo
+
+
+
+		Averiguar las Características del Servidor:
+		___________________________________________
+
+		_existe un método para saber las características instaladas en el servidor y de hardward
+
+		_lo cuál, consiste en crear un script, de php, el cuál, podremos subir al servidor para que así, posteriormente podamos acceder ha éste script, y ver así, las características del hosting
+
+		Script PHP:
+
+			<?php
+
+				phpinfo();
+
+			?>
+
+		_éste script, lo podremos guardar por ejemplo con el nombre de "phpinfo.php", el cuál, podremos subir al directorio raíz de nuestro sitio web, vía ftp
+
+		_al cuál, posteriormente podremos acceder a través, del navegador web, ej:
+
+			misitioweb.com/phpinfo.php
+
+		_para que así, php, los liste las características del servidor
+
+
+
+
+
+
+	-->
+	
+</body>
+</html>
